@@ -11,7 +11,7 @@ body {
 header, nav, section, aside, footer {
     background: #ebebeb;
     text-align: center;
-    
+
     padding-top: 2em;
     padding-bottom: 2em;
 }
@@ -27,6 +27,7 @@ article {
     padding: 1em;
     padding-top: 1em;
     padding-bottom: 1em;
+    margin-top: 1em;
 }
 
 h1, p {
